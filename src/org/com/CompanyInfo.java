@@ -6,5 +6,10 @@ public class CompanyInfo {
 		System.out.println("Company name:CTS");
 
 	}
+		private void companyId() {
+			System.out.println("Company id:8523");
+
+		}
+	
 
 }
