@@ -6,5 +6,11 @@ public class CompanyInfo {
 		System.out.println("Company name:CTS");
 
 	}
+	
+	
+	private void companyAddrs() {
+		System.out.println("Company addrs:05/tambaram");
+
+	}
 
 }
